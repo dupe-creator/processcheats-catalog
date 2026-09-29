@@ -4,6 +4,7 @@
   "banner_message": "⚡ Bem-vindo ao ProcessCheats Loader! Entre no nosso Discord para novidades e suporte.",
   "min_loader_version": "1.0.0",
   "discord_main": "https://discord.gg/7YRUE68XvJ",
+
   "categories": [
     {
       "id": "cs2",
@@ -16,8 +17,8 @@
       "icon": "🎯"
     },
     {
-      "id": "apex",
-      "label": "Apex Legends",
+      "id": "Free fire",
+      "label": "Free fire",
       "icon": "⚡"
     },
     {
