@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-09-29",
+  "banner_message": "⚡ Bem-vindo ao ProcessCheats Loader! Entre no nosso Discord para novidades e suporte.",
+  "min_loader_version": "1.0.0",
+  "discord_main": "https://discord.gg/7YRUE68XvJ",
+  "categories": [
+    {
+      "id": "cs2",
+      "label": "Counter-Strike 2",
+      "icon": "💣"
+    },
+    {
+      "id": "valorant",
+      "label": "Valorant",
+      "icon": "🎯"
+    },
+    {
+      "id": "apex",
+      "label": "Apex Legends",
+      "icon": "⚡"
+    },
+    {
+      "id": "roblox",
+      "label": "Roblox",
+      "icon": "🧱"
+    },
+    {
+      "id": "other",
+      "label": "Outros Jogos",
+      "icon": "🕹️"
+    }
+  ],
+  "cheats": [
+    {
+      "id": "cs2_internal",
+      "name": "Process Hook",
+      "game": "Counter-Strike 2",
+      "category": "cs2",
+      "description": "ESP Wallhack + Aimbot Suave + Triggerbot configurável.",
+      "version": "2.4.1",
+      "status": "undetected",
+      "download_url": "https://github.com/SEU_USER/processcheats-catalog/releases/download/v1.0/cs2_hook.zip",
+      "discord_url": "https://discord.gg/7YRUE68XvJ",
+      "thumbnail": "",
+      "tags": ["esp", "aimbot", "internal"],
+      "updated_at": "2026-09-28",
+      "visible": true
+    },
+    {
+      "id": "valo_color",
+      "name": "Color Aimbot Pro",
+      "game": "Valorant",
+      "category": "valorant",
+      "description": "Aimbot externo baseado em detecção de cor e Arduino/KMBox.",
+      "version": "1.8.0",
+      "status": "undetected",
+      "download_url": "https://github.com/SEU_USER/processcheats-catalog/releases/download/v1.0/valo_color.zip",
+      "discord_url": "https://discord.gg/7YRUE68XvJ",
+      "thumbnail": "",
+      "tags": ["external", "aimbot", "arduino"],
+      "updated_at": "2026-09-25",
+      "visible": true
+    },
+    {
+      "id": "apex_glow",
+      "name": "Glow ESP & Recoil",
+      "game": "Apex Legends",
+      "category": "apex",
+      "description": "Driver externo de leitura de memória: Glow ESP + No-Recoil script.",
+      "version": "3.1.0",
+      "status": "updating",
+      "download_url": "https://github.com/SEU_USER/processcheats-catalog/releases/download/v1.0/apex_glow.zip",
+      "discord_url": "https://discord.gg/7YRUE68XvJ",
+      "thumbnail": "",
+      "tags": ["external", "glow", "driver"],
+      "updated_at": "2026-09-29",
+      "visible": true
+    },
+    {
+      "id": "roblox_exec",
+      "name": "Process Luau Executor",
+      "game": "Roblox",
+      "category": "roblox",
+      "description": "Executor Luau Level 8 compatível com scripts universais.",
+      "version": "1.0.5",
+      "status": "undetected",
+      "download_url": "https://github.com/SEU_USER/processcheats-catalog/releases/download/v1.0/roblox_exec.zip",
+      "discord_url": "https://discord.gg/7YRUE68XvJ",
+      "thumbnail": "",
+      "tags": ["luau", "executor", "script"],
+      "updated_at": "2026-09-27",
+      "visible": true
+    }
+  ]
+}
